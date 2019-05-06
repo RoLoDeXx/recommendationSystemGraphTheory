@@ -1,6 +1,6 @@
 <h1>Recommendation System(Graph Theory)</h1>
 
-<h3>Is this thing going to recommend somethng usefull?</h3>
+<h3>Is this thing going to recommend something usefull?</h3>
   <p>Ans:NO!</p>
   <hr />
 <h3>About</h3>
