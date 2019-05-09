@@ -1,8 +1,5 @@
 <h1>Recommendation System(Graph Theory)</h1>
 
-<h3>Is this thing going to recommend something usefull?</h3>
-  <p>Ans : NO!</p>
-  <hr />
 <h3>About</h3>
   <p>Given an undirected graph, 
   we can determine if the graph can be colored with at most m(Chromatic number) 
